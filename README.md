@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KevinGraca
-- 👀 I’m interested in swiftUI, flutter, react js and database 
-- 🌱 I’m currently learning swiftUI
-- 💞️ I’m looking to collaborate on swiftUi, html, databsae, css and php
+- 👀 I’m interested in detox,  react-nactive, js and database 
+- 🌱 I’m currently learning js, shoppify and react-nactive
 - 📫 How to reach me ...
 
 <!---
