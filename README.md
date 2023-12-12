@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinGraca
-- 👀 I’m interested in detox,  react-nactive, js and database 
+- 👀 I’m interested in robotframework, detox,  react-nactive, js, python  and database 
 - 🌱 I’m currently learning js, shoppify and react-nactive
 - 📫 How to reach me ...
 
